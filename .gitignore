@@ -1,3 +1,5 @@
 
 .gitigore
 .DS_store
+*.o
+*.out
