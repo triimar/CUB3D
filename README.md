@@ -35,6 +35,6 @@ Added to the bonus:
 ### Running the Program(s)
 
 - **./cub3d \<.cub_file_for_input\>**
-- **./cub3d_bonus \<.cub_file_for_input\>**: Validates the sorting actions and returns success or failure.
+- **./cub3d_bonus \<.cub_file_for_input\>**
 
 <img width="1275" alt="Screen Shot 2024-03-16 at 2 53 11 PM" src="https://github.com/triimar/CUB3D/assets/116010422/4dac8df8-f817-4cfb-9234-ca2491f144f4">
