@@ -20,7 +20,7 @@ Bonus version of the program implements a minimap in the left upper corner of th
 
 - `left` and `right` arrow keys allow the player to look left and right
 - `W`, `A`, `S`, and `D` keys move the player forward, left, right and backward within the maze.
-- Pressing `ESC` or clicking the `X` ont he window closes the window and quits the program.
+- Pressing `ESC` or clicking the `X` on the window closes the window and quits the program.
 <br>
 
 <img width="1275" alt="Screen Shot 2024-03-16 at 4 12 56 PM" src="https://github.com/triimar/CUB3D/assets/116010422/6f4adb6b-e8fc-4052-9462-8d734b1e2719">
